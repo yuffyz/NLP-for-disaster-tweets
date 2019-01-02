@@ -1,6 +1,6 @@
 # NLP-for-disaster_tweets
 
-Techniques, concepts and models used and explained in this project: 
+Techniques, models and concepts used and explained in this project: 
 
 * preprocessing techniques for text data
 * embeddings and word vector
