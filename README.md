@@ -1,6 +1,5 @@
 # NLP-for-disaster_tweets
 
-<<<<<<< HEAD
 This project is my version of reproducing the work of a research paper submitted August 12, 2016 by a team of reserachers from Qatar Computing Research Institute: ["Rapid Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks"](https://arxiv.org/abs/1608.03902) by Dat Tien Nguyen, Kamela Ali Al Mannai, Shafiq Joty, Hassan Sajjad, Muhammad Imran, Prasenjit Mitra. 
 
 ## What this paper is about? 
