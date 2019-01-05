@@ -5,8 +5,9 @@ This project is my version of reproducing the work of a research paper submitted
 ## What this paper is about? 
 
 
-## What did I do and why? 
 *** 
+## What did I do and why? 
+
 I reproduce this paper for learning purpose to get myself more proficient with text mining techniques and gain a deeper understanding of neural nets. 
 
 Techniques, models and concepts used and explained in this project: 
@@ -21,8 +22,8 @@ Techniques, models and concepts used and explained in this project:
 * Convolutional Neural Network
 * Clustering 
 
+*** 
 ## How to use the program
-=======
 Techniques, models and concepts used and explained in this project: 
 
 * preprocessing techniques for text data
@@ -34,4 +35,3 @@ Techniques, models and concepts used and explained in this project:
 * word2vec
 * Convolutional Neural Network
 * Clustering 
->>>>>>> 63e0799299d4952eb6913013b6fa1aff73d1ff29
