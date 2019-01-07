@@ -10,16 +10,17 @@ This project is my version of reproducing the work of a research paper submitted
 
 I reproduce this paper for learning purpose to get myself more proficient with text mining techniques and gain a deeper understanding of neural nets. 
 
-Techniques, models and concepts used and explained in this project: 
+Techniques, models and concepts used and explained in this project are: 
 
 * preprocessing techniques for text data
-* embeddings and word vector
+* word vector and embeddings
 * Bag of words model 
 * Tagging 
 * TFIDF
 * PCA
 * word2vec
 * Convolutional Neural Network
+* Recurrent Neural Network
 * Clustering 
 
 *** 
