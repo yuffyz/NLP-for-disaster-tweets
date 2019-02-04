@@ -28,8 +28,6 @@ Techniques, models and concepts used and explained in this project are:
 
 ## How to use the program
 
-To view the result,  I built a web server that displays 
-
 
 
 
