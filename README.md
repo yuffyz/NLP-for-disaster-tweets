@@ -28,8 +28,11 @@ Techniques, models and concepts used and explained in this project are:
 
 ## How to use the program
 
+<<<<<<< HEAD
 Find the raw [CrisisNLP](http://crisisnlp.qcri.org/lrec2016/lrec2016.html) dataset here. Or you use my concatenated clean data version of 9 major events under *data* folder. 
 
+=======
+>>>>>>> 241593c8eca44440506e11b87079c1340ee7efbd
 
 
 
