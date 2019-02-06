@@ -2,7 +2,7 @@
 
 This project is my version of reproducing the work of a research paper submitted August 12, 2016 by a team of reserachers from Qatar Computing Research Institute: ["Rapid Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks"](https://arxiv.org/abs/1608.03902) by Dat Tien Nguyen, Kamela Ali Al Mannai, Shafiq Joty, Hassan Sajjad, Muhammad Imran, Prasenjit Mitra. 
 
-*** 
+
 ## What this paper is about? 
 
 This paper introduced neural network based classification methods for binary and multi-class tweet classification task. It makes use of out-of-event data in the early hours of a disaster and achieved a better result with CNN (compared to RF, LR, and SVM)
@@ -28,7 +28,7 @@ Techniques, models and concepts used and explained in this project are:
 
 ## How to use the program
 
-To view the result,  I built a web server that displays 
+Find the raw [CrisisNLP](http://crisisnlp.qcri.org/lrec2016/lrec2016.html) dataset here. Or you use my concatenated clean data version of 9 major events under *data* folder. 
 
 
 
